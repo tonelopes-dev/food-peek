@@ -26,9 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 A Landing Page Sanduíche foi desenvolvida para estudos de Responsividade usando as tecnologias acima.
-- [Visite o projeto online](https://tonelopes.github.io/food-peek/)
+- [Visite o projeto online](https://tonelopes-dev.github.io/food-peek/)
 
 
 ---
 
-Feito com ♥ por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
+Feito com ♥ por [Tone Lopes](https://tonelopes-dev.github.io/portfolio/#home)
